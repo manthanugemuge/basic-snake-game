@@ -16,7 +16,7 @@ A Simple Snake Game using Basic Html, CSS & Javascript
 - Download or clone the repository Website : 
 
 ```
-
+https://github.com/ManthanUgemuge/Basic-Snake-Game.git
 
 ```
 - Run Directly - 
