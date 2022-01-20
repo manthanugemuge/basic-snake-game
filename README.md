@@ -21,3 +21,10 @@ https://github.com/ManthanUgemuge/Basic-Snake-Game.git
 ```
 - Run Directly - https://manthanugemuge.github.io/Basic-Snake-Game/
 - Access All Games - https://github.com/ManthanUgemuge/WebGames-Projects
+
+
+## Contributing
+Pull requests are welcome, feel free to ```fork``` this repo.
+
+## License
+This project is open-sourced under the [MIT license]().
