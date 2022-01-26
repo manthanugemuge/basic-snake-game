@@ -20,7 +20,7 @@ https://github.com/ManthanUgemuge/Basic-Snake-Game.git
 
 ```
 - Run Directly - https://manthanugemuge.github.io/Basic-Snake-Game/
-- Access All Games - https://github.com/ManthanUgemuge/WebGames-Projects
+- Access All Games - [WebGames-Projects](https://github.com/ManthanUgemuge/WebGames-Projects)
 
 
 ## Contributing
