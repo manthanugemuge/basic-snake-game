@@ -2,7 +2,7 @@
 A Simple Snake Game using Basic Html, CSS & Javascript
 
 ## About The Project
-SImple SNake Game with music and increasing mechanics.
+Simple Snake Game with music and increasing mechanics.
 
 ## Tech Stacks Used
 
@@ -12,8 +12,7 @@ SImple SNake Game with music and increasing mechanics.
 
 ## How to use Project
 
-
-- Download or clone the repository Website : 
+- [Download]() or clone the repository Website : 
 
 ```
 https://github.com/ManthanUgemuge/Basic-Snake-Game.git
