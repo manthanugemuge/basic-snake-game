@@ -12,7 +12,7 @@ Simple Snake Game with music and increasing mechanics.
 
 ## How to use Project
 
-- [Download]() or clone the repository Website : 
+- [Download](https://github.com/ManthanUgemuge/Basic-Snake-Game/archive/refs/heads/main.zip) or clone the repository Website : 
 
 ```
 https://github.com/ManthanUgemuge/Basic-Snake-Game.git
