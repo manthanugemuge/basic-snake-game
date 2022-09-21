@@ -12,12 +12,13 @@ Simple Snake Game with music and increasing node mechanics.
 
 ## How to use Project
 
-- [Download](https://github.com/ManthanUgemuge/Basic-Snake-Game/archive/refs/heads/main.zip) or clone the repository Website : 
+- Download or clone the repository Website : 
 
 ```
 https://github.com/ManthanUgemuge/Basic-Snake-Game.git
-
 ```
+
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/Basic-Snake-Game/archive/refs/heads/main.zip)
 [![Play Game](https://custom-icon-badges.herokuapp.com/badge/-Play_Game-3A3B3C?style=for-the-badge&logo=controller&logoColor=white "Play Game")](https://manthanugemuge.github.io/Basic-Snake-Game/)
 [![Access All Game](https://custom-icon-badges.herokuapp.com/badge/-Access_All_Game-0C090A?style=for-the-badge&logo=controller&logoColor=white "Access All Game")](https://github.com/ManthanUgemuge/WebGames-Projects)
 
