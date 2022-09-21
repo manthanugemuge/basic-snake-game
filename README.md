@@ -18,8 +18,8 @@ Simple Snake Game with music and increasing node mechanics.
 https://github.com/ManthanUgemuge/Basic-Snake-Game.git
 
 ```
-- Run Directly - [Play](https://manthanugemuge.github.io/Basic-Snake-Game/)
-- Access All Games - [WebGames-Projects](https://github.com/ManthanUgemuge/WebGames-Projects)
+[![Play Game](https://custom-icon-badges.herokuapp.com/badge/-Play_Game-3A3B3C?style=for-the-badge&logo=controller&logoColor=white "Play Game")](https://manthanugemuge.github.io/Basic-Snake-Game/)
+[![Access All Game](https://custom-icon-badges.herokuapp.com/badge/-Access_All_Game-0C090A?style=for-the-badge&logo=controller&logoColor=white "Access All Game")](https://github.com/ManthanUgemuge/WebGames-Projects)
 
 
 ## Contributing
