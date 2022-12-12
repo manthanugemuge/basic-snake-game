@@ -1,5 +1,5 @@
 # Basic Snake Game
-A Simple Snake Game using Basic HTML, CSS & Javascript.
+A Basic Snake Game using HTML, CSS & Javascript.
 
 ## About The Project
 Simple Snake Game with music and increasing node mechanics.
